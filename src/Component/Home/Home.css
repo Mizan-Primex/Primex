@@ -1,0 +1,10 @@
+:root{
+    --background-color:  #EEBF1A; 
+    --font-weight: 800;
+    --font-color: #212121;
+    --font-family: Roboto;
+
+}
+.homeBody{
+    background-color: var(--background-color);
+}
