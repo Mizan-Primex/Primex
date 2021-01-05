@@ -185,22 +185,22 @@ const Body = () => {
             </section>
             <section className="third-section" id="services">
                 <div className="other-service">
-                    <h4>OUR OTHER SERVICES ARE</h4>
+                    <h1>OUR OTHER SERVICES ARE</h1>
                     <article>
                         We started our team w ork as a conceptional and creative designing firm. But after a certain time we include some more activity as per our client push . and this are the service we add… hope this kinda service add more value to you and me.
                     </article>
                 </div>
                 <div className="services">
                     <div className="service a">
-                        <h5>Advertisement</h5>
+                        <h3>Advertisement</h3>
                         <article>
                             Are you another ACME or a true original? We thought so. Now let’s work together to figure out what that sounds like in as short and catchy a manner as possible.
                         </article>
-                        <h5>Branding</h5>
+                        <h3>Branding</h3>
                         <article>
                             Where do you stand in the eyes of the marketplace? Sure you're great at w hat you do, but how do people know that? Let’s dig in and develop a comprehensive positioning strategy that will guide you out of the shadows and into the limelight.
                         </article>
-                        <h5>Printing / Graphics</h5>
+                        <h3>Printing / Graphics</h3>
                         <article>
                             The conversation with your audience goes beyond the digital space, and tactile communications certainly still have relevance. From brochures to billboards to boxes and everywhere in-between, we’re well-versed in bringing your story to life no matter the medium.
 
@@ -211,18 +211,18 @@ const Body = () => {
                             <div className="container3" ref={container3}></div>
                         </div>
                         <div className="txt">
-                            <h5>Audio Visual Production</h5>
+                            <h3>Audio Visual Production</h3>
                             <article>
                                 The term identity says it all: a distilled representation of who you are. Whether you’re a new player on the field or a seasoned vet looking for a reboot, we live to designed your identity systems in sync with long-term vision and big-picture strategy. Visual storytelling at it’s finest… and most succinct. We have vest experienced team to support your strategy.
                         </article>
                         </div>
                     </div>
                     <div className="service c">
-                        <h5>Business Automation</h5>
+                        <h3>Business Automation</h3>
                         <article>
                             Automation software is being used by businesses to reduce the costs associate d with completing particular process. It is a way of reducing labour intensive activities. Manual triggers are being replaced by software which integrates disparate systems to enable an end to end business process. Costs are saved by the reduced need for people. We serve you from access control, CCTV IP cam , to all y ou need for your swift workflow .
                         </article>
-                        <h5> Event Management</h5>
+                        <h3> Event Management</h3>
                         <article>
                             With a team of young creative dynamic & dedicated professionals we Have pushed AI areas of event management to new frontiers, Whether it is artists management, product launch, exhibition, road show , fashion show celebrity management as well as corporate indoor outdoor event. We are committed to deliver more then the client expectation.
 
@@ -287,7 +287,7 @@ const Body = () => {
 
             </section>
             <section className="Client-Review">
-                <h1>Client Review</h1>
+                <h1>CLIENT REVIEW</h1>
                 <div className="clientReviewDetails">
                     <div className="card1">
                         <img src={reviewImg1} alt="" />
@@ -313,7 +313,7 @@ const Body = () => {
             </section>
 
             <section className="touch" id="touch" >
-                <h3>GET IN TOUCH</h3>
+                <h1>GET IN TOUCH</h1>
                 <article>
                     We Are Here ! To Know More About Us And If You Have Any Q ueries what matched with our workflow. Please feel free to contact over phone, e mail's or appoint a meeting at your desired place... have a great day :) !
                     </article>

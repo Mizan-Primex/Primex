@@ -110,6 +110,10 @@
     padding: 2rem;
     z-index: 99;
 }
+.other-service h1{
+    color: var(--background-color);
+    font-size: 2rem;
+    }
 .animation-three{
     background-repeat: no-repeat;
 }
@@ -122,10 +126,12 @@
     background-color: #323232;
     padding: 2rem;
     z-index: 95;
+    
 
 }
-.third-section h4, h5{
-    color: var(--background-color)
+.third-section h3{
+    color: var(--background-color);
+    font-weight: 400;
 }
 .third-section article{
     color: #fff;
@@ -136,15 +142,21 @@
     padding: 6rem;
     align-items: center;
 }
+.about h1{
+    font-size: 2rem;
+    }
 .about article{
     text-align: justify;
 }
 .team{
     font-family: var(--font-family);
     padding: 6rem;
-    background-color:#E5E5E5;
+    background-color:#f0f0f0;
     text-align: center;
 }
+.team h1{
+    font-size: 2rem;
+    }
 .team article{
     text-align: justify;
 }
@@ -179,7 +191,7 @@
     
 }
 .capability2{
-    background-color: #E5E5E5;
+    background-color: #f0f0f0;
     height:auto;
     width: 35vw;  
     
@@ -203,10 +215,13 @@
     font-weight: 300;
 }
 .Client-Review{
-    background-color:#E5E5E5 ;
+    background-color:#f0f0f0 ;
     display: grid;
     padding-top: 5rem;
     
+}
+.Client-Review h1{
+    font-size: 2rem;
 }
 .clientReviewDetails{
     display: flex;
@@ -215,7 +230,7 @@
 }
 .card1{
     display: grid;
-    background-color: #FFFFFF ;
+    background-color: #f9f9f9 ;
     height: 431px;
     width: 420px;
     justify-content:left;
@@ -235,7 +250,7 @@
 }
 .card2{
     display: grid;
-    background-color: #FFFFFF ;
+    background-color: #f9f9f9 ;
     height: 431px;
     width: 420px;
     justify-content:left;
@@ -243,8 +258,11 @@
     border-radius: 21px;
 }
 .touch{
-    background-color: #E5E5E5;
+    background-color: #f0f0f0;
     padding: 8rem;
+}
+.touch h1{
+font-size: 2rem;
 }
 .footer{
     font-family: var(--font-family);
